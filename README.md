@@ -1,5 +1,7 @@
 # practica-24-04-2025
 
+![Práctica solución 24-04-2025](https://github.com/Elvis-Aguilar/practica-24-04-2025/blob/main/practica-solucion-24-04-2025.drawio.png)
+
 # Justificacion de cada patron a implementar
 
 ## Builder
